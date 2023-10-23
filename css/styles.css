@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(228, 242, 255);
+    font-family: 'Montserrat';
+}
+.footer{
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+nav {
+    color: #00172b;  
+    padding: 15px;
+    font-size: 15px;
+    border: 1px solid #000;
+  }
+  
+  nav a {
+    text-decoration: none; 
+    color: #20517c; 
+    margin: 0 15px;
+  }
+  
+h1{
+    color: rgb(73, 93, 65);
+    font-weight: bold;
+}
